@@ -2,7 +2,7 @@
 
 I'm a fresh graduate in Computational Science and Engineering from
 EPFL, Switzerland. My main fields of interest are **Deep Learning**,
-**Computer Vision**, and **Numerical Solutions of PDEs**.
+**Computer Vision**, and **Numerical Solutions of PDEs**. To have a look at some of my projects and my resume, please visit my [portfolio](https://axeldinh.github.io/)!
 
 ---
 
